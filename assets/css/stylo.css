@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+
+h1 {
+    font-family: 'Noto Sans', sans-serif;
+}
+.text-resocucao{
+font-family: 'Noto Sans', sans-serif;
+font-size: 4em;
+color:#20195c;
+
+}
+
+.resposta{
+display:flex;
+justify-content: center;
+padding-top: 1%;
+}
+
+.jumbotron{
+margin-top: 55px;
+}
+
+.jumbotron > p {
+        display: inline-block;
+        margin: 11px;    
+        font-weight: bolder; 
+}
